@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Zoho CRM Leads Module Test Suite" parallel="false">
+    <test name="Leads Module Tests">
+        <classes>
+            <class name="tests.LeadsTest"/>
+        </classes>
+    </test>
+</suite>
